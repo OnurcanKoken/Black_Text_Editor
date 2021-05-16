@@ -8,4 +8,5 @@ There was a need for me to write it down my notes but the background colors was 
 ![GUI](gui.PNG)
 
 Reference: https://github.com/flatplanet/Intro-To-TKinter-Youtube-Course/blob/master/textpad.py
+
 To create .exe file, i have used: https://www.youtube.com/watch?v=_nhiXxFCT34
